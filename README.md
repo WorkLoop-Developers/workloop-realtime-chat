@@ -16,14 +16,14 @@ Designed for teams to communicate through workspaces, channels, direct messages,
 
 ## Frontend
 
-```txt
-https://workloop-chat-app.vercel.app
+```txt[
+https://workloop-realtime-chat.vercel.app/
 ```
 
 ## Backend
 
 ```txt
-https://workloop-chat-app.onrender.com
+https://workloop-realtime-chat.onrender.com
 ```
 
 ---
